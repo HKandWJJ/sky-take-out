@@ -16,3 +16,6 @@ sky:
     access-key-id: LTAI5tKuZDyvd3T8rFWxvz5q
     access-key-secret: TkdGxLQznI51eIRq4WA3BApKsVR9jI
     bucket-name: sky-itcast-hekun
+  wechat:
+    appid: wx3b75f96732490d12
+    secret: 599aa9750d11cf660ede27fccea7e282
