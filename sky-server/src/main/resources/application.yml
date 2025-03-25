@@ -65,3 +65,7 @@ sky:
     weChatPayCertFilePath: ${sky.wechat.weChatPayCertFilePath}
     notifyUrl: ${sky.wechat.notifyUrl}
     refundNotifyUrl: ${sky.wechat.refundNotifyUrl}
+  shop:
+    address: 陕西省西安市未央区陕西科技大学学生生活区
+  baidu:
+    ak: VEJJcuQs63i2AMpY0Wpv428o7LPACDLh
